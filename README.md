@@ -10,5 +10,5 @@ Extra research towards new features allowed me to reach further heights - implem
 
 To Run:
 - download adventure-game.jar then either:
-1. run in desired software, capable of handling jar files
-2. run in operating system terminal by locating the file and typing: java -jar adventure-game.jar 
+1. run in desired software, capable of handling jar files or:
+2. run in operating system terminal by locating the file directory and running: java -jar adventure-game.jar 
