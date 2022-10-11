@@ -7,3 +7,8 @@ Throughout this project, I had the chance to consolidate OOP concepts I had lear
 Utilising GUI, I was able to create a more engaging adventure-themed decision-making game.
 Coding, debugging and testing in Java developed my logic and problem-solving skills, enabling me to achieve 100% for the project!
 Extra research towards new features allowed me to reach further heights - implementing a countdown feature in order to time-constrict user input significantly enhanced user experience during fights.
+
+To Run:
+- download adventure-game.jar then either:
+1. run in desired software, capable of handling jar files
+2. run in operating system terminal by locating the file and typing: java -jar adventure-game.jar 
